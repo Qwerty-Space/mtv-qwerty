@@ -1,0 +1,39 @@
+#menu li:nth-child(1) {
+    background-color: #4273BC;
+}
+#menu li:nth-child(2) {
+    background-color: #3B6BB2;
+}
+#menu li:nth-child(3) {
+    background-color: #3763A6;
+}
+#menu li:nth-child(4) {
+    background-color: #345E9E;
+}
+#menu li:nth-child(5) {
+    background-color: #315994;
+}
+#menu li:nth-child(6) {
+    background-color: #2D528A;
+}
+#menu li:nth-child(7) {
+    background-color: #2A4C80;
+}
+#menu li:nth-child(8) {
+    background-color: #274675;
+}
+#menu li:nth-child(9) {
+    background-color: #23406B;
+}
+#menu li:nth-child(10) {
+    background-color: #203A61;
+}
+
+a.brackets {
+	color: #5A86C7;
+}
+
+div.tags a {
+	background-color: #2B4B7A;
+	color: #AECAF5;
+}
