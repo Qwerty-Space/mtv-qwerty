@@ -1,3 +1,7 @@
+#logo>a {
+    background: url(https://theonlydzr.github.io/Stylesheet/Lime/res/Logo.png) center no-repeat;
+}
+
 #menu li:nth-child(1) {
     background-color: #4273BC;
 }
