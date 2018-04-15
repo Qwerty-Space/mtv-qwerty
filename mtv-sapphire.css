@@ -488,7 +488,7 @@ table.box2 {
     box-sizing: content-box;
     width: 250px;
     padding: 24px 8px 16px;
-    content: url("https://raw.githubusercontent.com/Qwerty-Space/mtv-qwerty/master/Logo.png");
+    content: url("https://raw.githubusercontent.com/Qwerty-Space/mtv-sapphire/master/Logo.png");
 }
 #logo>a {
     display: block;
