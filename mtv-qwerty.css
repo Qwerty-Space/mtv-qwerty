@@ -639,44 +639,44 @@ table.box2 {
     background-color: #2B2A2B
 }
 #menu li:nth-child(1) {
-    background-color: #3B6BB2
+    background-color: #4273BC
 }
 #menu li:nth-child(2) {
-    background-color: #3763A6
+    background-color: #3B6BB2
 }
 #menu li:nth-child(3) {
-    background-color: #345E9E
+    background-color: #3763A6
 }
 #menu li:nth-child(4) {
-    background-color: #315994
+    background-color: #345E9E
 }
 #menu li:nth-child(5) {
-    background-color: #2D528A
+    background-color: #315994
 }
 #menu li:nth-child(6) {
-    background-color: #274675
+    background-color: #2D528A
 }
 #menu li:nth-child(7) {
-    background-color: #23406B
+    background-color: #274675
 }
 #menu li:nth-child(8) {
-    background-color: #203A61
+    background-color: #23406B
 }
 #menu li:nth-child(9) {
-    background-color: #1e355f
+    background-color: #203A61
 }
 #menu li:nth-child(10) {
-    background-color: #172c4c
+    background-color: #1E355F
 }
 
 #userinfo_username {
     right: 50px;
-    background-color: #152846
+    background-color: #172C4C
 }
 #userinfo_minor {
     top: 31px;
     right: -8px;
-    background-color: #12233D;
+    background-color: #152846;
     border-radius: 0 0 0 0
 }
 #menu {
